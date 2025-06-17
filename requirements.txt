@@ -1,3 +1,2 @@
-streamlit
-tensorflow
-numpy
+streamlit==1.45.1
+tensorflow==2.15.0
